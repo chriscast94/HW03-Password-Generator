@@ -62,7 +62,7 @@ function genPw() {
 
   var options = opts();
   var password = [];
-  var passwordSetUp = [];
+  // var passwordSetUp = [];
   var possibleChar = [];
   var guaranteedChar = [];
 
@@ -96,7 +96,7 @@ password.push(result);
     // console.log(password)
   } 
   console.log(password)
-  return password
+  return password.join(" ")
 }
 var generateBtn = document.querySelector("#gen-button");
 function writePassword () {
