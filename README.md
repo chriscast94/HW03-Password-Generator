@@ -6,7 +6,7 @@ Javascript is an exciting and difficult operation to use. I have no idea what sp
 
 ## Installation
 1. Open Github and GitBash
-2. Click on link for Repository "HW03-Password-Generator"
+2. Click on link for Repository "Password-Generator"
 3. Click the green button
 4. Click "Clone with HTTPS" or Use with SSH
 5. Go to Git Bash
