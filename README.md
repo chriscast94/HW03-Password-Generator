@@ -1,4 +1,4 @@
-# HW03-Password-Generator
+# Password-Generator
 
 ## Description
 I wanted the password generator to be able to create a simple password that can pass any password requirements (special characters, capital letters, etc.) while also being completely safe (randomized characters). I kept the layout simple and easy to follow along as this was meant to be a simple tool to use. 
@@ -15,7 +15,7 @@ Javascript is an exciting and difficult operation to use. I have no idea what sp
 8. Press Enter to create clone
 
 ## Usage
-This file is representative of a live working site:https://chriscast94.github.io/HW03-Password-Generator/
+This file is representative of a live working site:https://chriscast94.github.io/password-generator/
 
 Or open index.html through VS Code, right click on the page, and click on Open in Default Browser button if open in browser extension is enabled. To view files in the GitHub Repository, click here:
 https://github.com/chriscast94/HW03-Password-Generator
